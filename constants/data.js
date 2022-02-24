@@ -36,7 +36,7 @@ const userData = {
   },
 
   resumeUrl:
-    'https://drive.google.com/file/d/1IraX0DNIgLsMaba2IJJbY4CR9YP5yLX2/view?usp=sharing',
+    'https://drive.google.com/file/d/121tQMnJJy64EsK7-W6DgN9FdB7g8yoxN/view?usp=sharing',
   socialLinks: {
     instagram: 'https://instagram.com/brisuscristo',
     twitter: 'https://twitter.com/bribiaspdx',
