@@ -31,8 +31,8 @@ const userData = {
       `After learning HTML and CSS, I spent my high school career building MySpace profiles and selling them to kids in school. I didn't realize I could actually make a career out of continuing this and took over a decade away in other industries.`,
       `I wouldn't call myself a wizard, but if you do that's fine. Currently work in React, Next.js, Node.js, Express, PostgreSQL and learning Ruby.`,
     ],
-    currentProject: 'vibin',
-    currentProjectUrl: 'https://vibin.netlify.app',
+    currentProject: 'vibn',
+    currentProjectUrl: 'https://vibn.netlify.app',
   },
 
   resumeUrl:
