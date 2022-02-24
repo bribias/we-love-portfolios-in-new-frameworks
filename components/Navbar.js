@@ -230,11 +230,11 @@ export default function Navbar() {
             Projects
           </a>
         </Link>
-        <Link href="/experience">
+        {/* <Link href="/experience">
           <a className="text-base font-normal text-gray-600 dark:text-gray-300">
             Experience
           </a>
-        </Link>
+        </Link> */}
         <Link href="/contact">
           <a className="text-base font-normal text-gray-600 dark:text-gray-300">
             Contact
